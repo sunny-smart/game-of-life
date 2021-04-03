@@ -1,4 +1,4 @@
-package com.wakaleo.gameoflife.domain;
+package com.wakalieo.gameoflife.domain;
 
  /**
  * Wakaleo Consulting - John Ferguson Smart
@@ -9,7 +9,7 @@ package com.wakaleo.gameoflife.domain;
  */
 public enum Cell {
 	// Symbols to represent cell status
-    LIVE_CELL("*BBB---QQQQ"), DEAD_CELL(".");
+    LIVE_CELL("*Master---QQQQ"), DEAD_CELL(".");
 
     private String symbol;
 
